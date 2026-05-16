@@ -21,7 +21,7 @@ Uma aplicação desktop desenvolvida em **Python** que gera dados pessoais e doc
 ---
 ##  Contexto Acadêmico
 
-Este projeto foi desenvolvido com o objetivo de aplicar conceitos de **Lógica de Programação**, **Estruturas de Condição/Repetição** e **Desenvolvimento de Interfaces Gráficas (GUI)** na resolução de problemas do mundo real.
+Este projeto foi desenvolvido com o objetivo de aplicar conceitos de **Lógica de Programação**, **Estruturas de Condição/Repetição** e **Desenvolvimento de Interfaces Gráficas (GUI)** na resolução de problemas do mundo real. Desenvolvido por: Henrique, Kelvin e Matheus.
 ---
 ## Como Executar o Projeto
 
