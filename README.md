@@ -1,6 +1,6 @@
 # Gerador de Dados Brasileiros (Fake Data Generator)
 
-Uma aplicação desktop desenvolvida em **Python** que gera dados pessoais e documentos brasileiros realistas para fins de testes e desenvolvimento. O projeto utiliza a biblioteca `Faker` para a geração dos dados e o `Tkinter` para uma interface gráfica intuitiva.
+Uma aplicação desktop desenvolvida em **Python** que gera dados pessoais e documentos brasileiros realistas para fins de testes e desenvolvimento. O projeto utiliza a biblioteca `Faker` para a geração dos dados, e o`Tkinter` para uma interface gráfica intuitiva.
 
 <p align="center">
   <img src="unimar_logo.png" alt="Logo Unimar" width="200">
